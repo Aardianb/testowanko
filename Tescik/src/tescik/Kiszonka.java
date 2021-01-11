@@ -1,4 +1,4 @@
-class Kiszoonka{
+class Kiszonka{
   void kiszenie()
   {
   }
